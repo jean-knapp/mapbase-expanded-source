@@ -530,7 +530,7 @@ void RegisterSharedScriptConstants()
 	ScriptRegisterConstant( g_pScriptVM, CLASS_COMBINE_GUNSHIP, "Used by Combine gunships, helicopters, etc." );
 	ScriptRegisterConstant( g_pScriptVM, CLASS_CONSCRIPT, "UNUSED IN HL2. Would've been used by conscripts." );
 	ScriptRegisterConstant( g_pScriptVM, CLASS_HEADCRAB, "Used by headcrabs." );
-	//ScriptRegisterConstant( g_pScriptVM, CLASS_HOUNDEYE, "Used by houndeyes." );
+	ScriptRegisterConstant( g_pScriptVM, CLASS_HOUNDEYE, "Used by houndeyes." );
 	ScriptRegisterConstant( g_pScriptVM, CLASS_MANHACK, "Used by Combine manhacks." );
 	ScriptRegisterConstant( g_pScriptVM, CLASS_METROPOLICE, "Used by Combine metrocops." );
 	ScriptRegisterConstant( g_pScriptVM, CLASS_MILITARY, "In HL2, this is only used by npc_combinecamera and func_guntarget. This appears to be recognized as a Combine class." );
