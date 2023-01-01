@@ -20,6 +20,8 @@
 
 @include "halflife2.fgd"
 
+@NPCClass base(BaseNPC) studio("models/bullsquid.mdl") = npc_bullsquid : "Bullsquid" []
+
 @NPCClass base(BaseNPC) studio("models/houndeye.mdl") = npc_houndeye : "Houndeye" 
 [
 	netname(string) : "Squad Name"
