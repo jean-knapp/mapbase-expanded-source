@@ -1,3 +1,18 @@
+# Mapbase Expanded
+
+This project aims to create a Mapbase mod template with extra npcs and weapons from the HL2 lore.
+
+## Added NPCS
+
+* Houndeye
+* Bullsquid
+
+The mod template can be downloaded here:
+[https://github.com/jean-knapp/mapbase-expanded]
+
+
+## Mapbase Readme
+<pre>
 //=========================================================================================================================
 
                Mapbase v7.1 - Source 2013
@@ -206,7 +221,7 @@ THIS DOCUMENT DESCRIBES A CONTRACT BETWEEN YOU AND VALVE
 CORPORATION ("Valve").  PLEASE READ IT BEFORE DOWNLOADING OR USING 
 THE SOURCE ENGINE SDK ("SDK"). BY DOWNLOADING AND/OR USING THE 
 SOURCE ENGINE SDK YOU ACCEPT THIS LICENSE. IF YOU DO NOT AGREE TO 
-THE TERMS OF THIS LICENSE PLEASE DON’T DOWNLOAD OR USE THE SDK.  
+THE TERMS OF THIS LICENSE PLEASE DONÂ’T DOWNLOAD OR USE THE SDK.  
 
   You may, free of charge, download and use the SDK to develop a modified Valve game 
 running on the Source engine.  You may distribute your modified Valve game in source and 
@@ -241,3 +256,4 @@ copyright notice and the following:
        
 If you would like to use the SDK for a commercial purpose, please contact Valve at 
 sourceengine@valvesoftware.com.
+</pre>
