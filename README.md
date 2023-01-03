@@ -6,9 +6,10 @@ This project aims to create a Mapbase mod template with extra npcs and weapons f
 
 * Houndeye
 * Bullsquid
+* Cockroach
 
 The mod template can be downloaded here:
-[https://github.com/jean-knapp/mapbase-expanded]
+https://github.com/jean-knapp/mapbase-expanded
 
 
 ## Mapbase Readme
