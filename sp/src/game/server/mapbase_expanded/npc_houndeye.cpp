@@ -108,7 +108,7 @@ void CNPC_Houndeye::Spawn()
 	
 	SetRenderColor( 255, 255, 255, 255 );
 
-	SetModel( "models/houndeye.mdl" );
+	SetModel( "models/npcs/houndeye.mdl" );
 	
 	SetHullType(HULL_TINY);
 	SetHullSizeNormal();
@@ -137,7 +137,7 @@ void CNPC_Houndeye::Spawn()
 //=========================================================
 void CNPC_Houndeye::Precache()
 {
-	PrecacheModel("models/houndeye.mdl");
+	PrecacheModel("models/npcs/houndeye.mdl");
 
 	m_iSpriteTexture = PrecacheModel( "sprites/shockwave.vmt" );
 

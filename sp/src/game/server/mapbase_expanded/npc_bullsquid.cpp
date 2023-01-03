@@ -123,7 +123,7 @@ void CNPC_Bullsquid::Spawn()
 {
 	Precache( );
 
-	SetModel( "models/bullsquid.mdl");
+	SetModel( "models/npcs/bullsquid.mdl");
 	SetHullType(HULL_WIDE_SHORT);
 	SetHullSizeNormal();
 
@@ -154,7 +154,7 @@ void CNPC_Bullsquid::Spawn()
 //=========================================================
 void CNPC_Bullsquid::Precache()
 {
-	PrecacheModel( "models/bullsquid.mdl" );
+	PrecacheModel( "models/npcs/bullsquid.mdl" );
 	//PrecacheParticleSystem("blood_impact_antlion_worker_01");
 	PrecacheParticleSystem("blood_impact_yellow_01");
 

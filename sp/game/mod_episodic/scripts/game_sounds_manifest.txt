@@ -7,6 +7,7 @@ game_sounds_manifest
 	//Mapbase Expanded
 	"precache_file"		"scripts/npc_sounds_houndeye.txt"
 	"precache_file"		"scripts/npc_sounds_bullsquid.txt"
+	"precache_file"		"scripts/npc_sounds_cockroach.txt"
 
 	// Weapon sounds
 	"precache_file"		"scripts/game_sounds_weapons.txt"
